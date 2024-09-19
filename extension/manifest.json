@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Mr.Phisher",
+  "version": "1.0",
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ],
+  "action": {
+    "default_popup": "pop.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}

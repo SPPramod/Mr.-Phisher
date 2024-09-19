@@ -1,0 +1,22 @@
+
+   body {
+    font-family: 'Courier New', Courier, monospace;
+    width: 500px;
+    padding: 10px;
+    background-color: black;
+    font-weight: bold;
+    color: #0FFF50;
+  }
+  
+  h1 {
+    font-size: 20px;
+  }
+  
+  button {
+    margin-top: 10px;
+    background-color: lightgreen;
+  }
+  
+  p {
+    margin: 5px 0;
+  } 
