@@ -48,7 +48,7 @@ To set up the extension locally, follow these steps:
 
 ## Screenshots
 
-![Phishing Alert](path-to-your-screenshot-1)  
+![Phishing Alert](https://github.com/SPPramod/Mr.-Phisher/blob/2fcb0018cebe5d238b57bf4de976c1c36898192d/extension/Mr%20Phisher.png)  
 *Example of a phishing alert triggered by Mr.Phisher*
 
 ---
